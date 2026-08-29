@@ -2,10 +2,6 @@
 
 A procedural Onam pookalam generated entirely through Python.
 
-## Requirements
-
-Python 3.10+
-
 ## Install
 
 ```bash
