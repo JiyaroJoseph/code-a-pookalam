@@ -14,6 +14,8 @@ flat illustration.
 pip install -r requirements.txt
 ```
 
+On Windows, if pip isn't recognized, use py -m pip install -r requirements.txt instead.
+
 ## Run
 
 ```
