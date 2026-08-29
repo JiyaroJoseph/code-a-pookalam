@@ -1,1 +1,12 @@
-Mahabali's Return - generated via golden-angle phyllotaxis, no illustration, palette maps flower color to radius.
+# Code-a-Pookalam
+
+A procedural Onam pookalam generated entirely through Python.
+
+## Requirements
+
+Python 3.10+
+
+## Install
+
+```bash
+pip install -r requirements.txt
