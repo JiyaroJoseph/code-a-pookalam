@@ -10,15 +10,17 @@ flat illustration.
 
 ## Install
 
+```
+pip install -r requirements.txt
+
+```
 On Windows, if pip isn't recognized, use 
 ```
 py -m pip install -r requirements.txt instead.
 ```
-Else use
 
-```
-pip install -r requirements.txt
-```
+If `pip`/`python` aren't recognized: try `pip3`/`python3` (Mac/Linux) or `py -m pip`/`py` (Windows).
+
 
 ## Run
 
