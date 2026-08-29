@@ -1,8 +1,8 @@
 # Code-a-Pookalam
 
-**Note:** `maveli_poly.npy` must be in the same directory as `pookalam.py` —
+**NOTE:** `maveli_poly.npy` MUST BE IN THE SAME DIRECTORY AS `pookalam.py` —
 
-it holds the traced Maveli/umbrella silhouette the script loads at runtime.
+It holds the traced Maveli/umbrella silhouette the script loads at runtime.
 A procedural Onam pookalam generated entirely through Python — golden-angle
 phyllotaxis flower placement, radial colour zones, and a traced King
 Mahabali (Maveli) + Olakuda silhouette rendered as flowers rather than a
@@ -14,7 +14,10 @@ flat illustration.
 pip install -r requirements.txt
 ```
 
-On Windows, if pip isn't recognized, use py -m pip install -r requirements.txt instead.
+On Windows, if pip isn't recognized, use 
+```
+py -m pip install -r requirements.txt instead.
+```
 
 ## Run
 
