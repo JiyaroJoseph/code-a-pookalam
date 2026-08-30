@@ -1,14 +1,13 @@
 # Code-a-Pookalam
- 
+![Pookalam render](pookalam_1024.png)
+
 A procedural Onam pookalam (traditional Kerala flower arrangement) generated
 entirely in Python — no image editor, no manual placement. Flower positions
 come from golden-angle phyllotaxis (the same spiral packing rule sunflower
 seeds follow), colour-zoned radially outward, with a traced silhouette of
 King Mahabali (Maveli) and his Olakuda umbrella built *from* the same flower
 field rather than pasted on top as flat colour.
- 
-![Pookalam render](pookalam_1024.png)
- 
+
 ## How it works
  
 - **Placement:** `θ = n × 137.508°`, `r = c√n` — the golden-angle spiral,
